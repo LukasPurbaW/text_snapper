@@ -1,0 +1,3 @@
+file 'D:\19_SAAS\01_build\app\temp_video\seg_0.mp4'
+file 'D:\19_SAAS\01_build\app\temp_video\seg_1.mp4'
+file 'D:\19_SAAS\01_build\app\temp_video\seg_2.mp4'

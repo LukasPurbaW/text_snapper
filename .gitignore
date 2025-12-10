@@ -1,0 +1,108 @@
+###############################
+# OS & Editor Junk
+###############################
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+###############################
+# Node / Frontend
+###############################
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+
+dist/
+build/
+.cache/
+.next/
+out/
+.storybook/
+coverage/
+*.tsbuildinfo
+
+###############################
+# Python / Backend
+###############################
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+.env
+.env.*
+*.sqlite3
+instance/
+db.sqlite3
+
+###############################
+# Logs
+###############################
+logs/
+*.log
+*.pid
+*.seed
+
+###############################
+# Local Storage (IMPORTANT)
+###############################
+# do NOT push user files or generated files
+storage/users/
+storage/**/users/
+
+# If you have other storage (optional)
+storage/tmp/
+storage/cache/
+storage/generated/
+
+###############################
+# Framework Specific
+###############################
+# Next.js
+.vercel/
+
+# Nuxt
+.nuxt/
+
+# Expo / React Native
+.expo/
+.expo-shared/
+
+# Flask
+*.db
+
+# FastAPI / Uvicorn
+*.py[cod]
+
+###############################
+# Git
+############################
+# Database files
+*.sqlite3
+*.sqlite
+*.db
+**/instance/*
+**/storage/*
